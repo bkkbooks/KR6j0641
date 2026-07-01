@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0641/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0641/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說聖最勝陀羅尼經
+  identifiers:
+    krp: KR6j0641
+    cbeta: T21n1409
+    cbeta_old_id: T21n1409
+    authorityid: CA0002991
+    json_key: T1409
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1409.xml
+    old_id: T21n1409
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0641_000-T.yaml, hash: 'sha256:9d1a27a338d105451a879ca9feb64069f01566750b0c5fc48723300f06d404b2'}
+  - {seq: 1, filename: KR6j0641_001-T.yaml, hash: 'sha256:deff056047fa83b20920792117fb66518b7ae0b4c0e7645b2a812e44ab56550b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0641_000-T.markers.yaml, hash: 'sha256:2aa3dd8b11232fd9064168d4418f99113c3d2883cb7d783b78857c4f1fd1aa81'}
+  - {seq: 1, role: markers, filename: assets/KR6j0641_001-T.markers.yaml, hash: 'sha256:4c1a97aedad18fa0bc18cfe650f7192b6dbdd21644f91d949bcdf0191949e131'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0641_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1738
+  label: 佛說聖最勝陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:a73ad3716052f73863f959d2fa6047221e1d6a40ead97373d6a6b8cc54f0aa38

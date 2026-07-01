@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0641/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說聖最勝陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1409.xml
+    old_id: T21n1409
+hash: sha256:9d1a27a338d105451a879ca9feb64069f01566750b0c5fc48723300f06d404b2
