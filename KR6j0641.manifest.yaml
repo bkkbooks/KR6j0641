@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0641/v1
 canonical_location: https://kanripo.org/bkk/KR6j0641/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說聖最勝陀羅尼經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0641_000.yaml, hash: 'sha256:9d1a27a338d105451a879ca9feb64069f01566750b0c5fc48723300f06d404b2'}
-  - {seq: 1, filename: KR6j0641_001.yaml, hash: 'sha256:deff056047fa83b20920792117fb66518b7ae0b4c0e7645b2a812e44ab56550b'}
+  - {seq: 1, filename: KR6j0641_001.yaml, hash: 'sha256:34d15be7456298c036b9ffdf295ddc640b4252cad0c74eae4266a6c583068643'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0641_000.markers.yaml, hash: 'sha256:34467de0e537ce7750a300adf18841c40d6e4451b7d0bd65ade94782912dd92b'}
-  - {seq: 1, role: markers, filename: assets/KR6j0641_001.markers.yaml, hash: 'sha256:07e296dd1dbd8834f02c2acd6986cd062d621cf62dd479637279d343bbbb0b7a'}
+  - {seq: 1, role: markers, filename: assets/KR6j0641_001.markers.yaml, hash: 'sha256:85a0421eac2024cf9d6fb18a5fd7917c2e76de1785770e4ac71a16a60a0abd67'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 佛說聖最勝陀羅尼經
   type: juan
   level: 1
-hash: sha256:e792d199851e52226e6b14c4eadbf7c4822623cb6b1d31e4d0df44bdc94b8af3
+hash: sha256:9d15ca54785431a9d17f6fc4cb95397b11e6f73b0f5342ed817c6447cb3b4da3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
